@@ -1,0 +1,8 @@
+# dependencias
+node_modules/
+
+# credentials
+cypress.env.json
+
+# outros
+.eslintrc.json
