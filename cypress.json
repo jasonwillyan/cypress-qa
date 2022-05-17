@@ -4,7 +4,6 @@
     "video": false,
     "screenshotOnRunFailure": true,
     "testFiles": "**/*.*spec.*",
-    "supportFile": "cypress/support/setup.js",
     "env": {
         "sizes": [[360, 640], [414, 896], [768, 1024], [1000, 660]]
     }

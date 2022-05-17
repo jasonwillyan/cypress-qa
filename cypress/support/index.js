@@ -6,12 +6,14 @@ const screens = Cypress.env('sizes')
 const user = {
     login: Cypress.env('USER_LOGIN'),
     password: Cypress.env('USER_PASSWORD'),
+    username: Cypress.env('USER_NAME'),
 }
 
 const generateCyTestObject = () => {
     return {
         pages,
         screens,
+        user,
     }
 }
 

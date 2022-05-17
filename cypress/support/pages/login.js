@@ -1,6 +1,15 @@
 module.exports = {
+    footerLogoSinfo: "footer > div > a",
     login: "#username",
     loginButton: ".btn-login",
+    message: "div[class*='message']",
+    optionLinks: "div[class='cadastrese-esqueceu-senha'] > a",
     password: "#password",
+    ufrnLogo: "header > div > a",
+    ufrnLogoImage: "[class*='ufrn-logo']",
+    ufrnName: "[class*='ufrn-name']",
     url: '/',
+    buttonLogOut: "li[class='botao-sair']",
+    userName: "div[class='painel-usuario-identificacao'] > div > span",
+    footerContato: "[class='contato-copyright']",
 }
