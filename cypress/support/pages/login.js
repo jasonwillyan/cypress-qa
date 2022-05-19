@@ -12,4 +12,5 @@ module.exports = {
     buttonLogOut: "li[class='botao-sair']",
     userName: "div[class='painel-usuario-identificacao'] > div > span",
     footerContato: "[class='contato-copyright']",
+    alertInvalid: "#errors",
 }
