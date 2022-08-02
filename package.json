@@ -4,7 +4,8 @@
   "description": "automation test to plataform SIGAA",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:test": "npx cypress run --spec",
+    "cy:open": "npx cypress open"
   },
   "keywords": [],
   "author": "Jason Willyan",
