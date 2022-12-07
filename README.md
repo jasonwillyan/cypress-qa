@@ -9,7 +9,7 @@ This project contains some test cases validating the login page and the SIGAA lo
 ## Environment Setup
 
 **Prerequisites:**
-* <a href="https://docs.npmjs.com/cli/v6/commands/npm-install"> npm </a>
+* <a href="https://docs.npmjs.com/cli/v6/commands/npm-install"> Node.JS </a>
 
 ## Installing Dependencies
 
