@@ -1,4 +1,4 @@
-<h1 align="left">:computer: SIGAA_Test_Automation  </h1>
+<h1 align="left">:computer: Cypress-QA  </h1>
 
 This is an automated test for SIGAA login 
 
